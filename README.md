@@ -36,7 +36,7 @@
 
 ## 📢 News
 
-- **🆕2026.06.23**: Release of the Lab Interview Videos subset of the MMA-82-Rec dataset
+- **🚀2026.06.23**: Release of the Lab Interview Videos subset of the MMA-82-Rec dataset
 - **2026.06.20**: MMA-82 paper, project page, and dataset links are available.
 - **2026.06.20**: We introduce MMA-82, a multi-domain benchmark for micro-action recognition and multi-label temporal detection.
 
