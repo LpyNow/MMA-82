@@ -31,9 +31,7 @@
 
 ---
 
-If you have any questions, please feel free to contact me:
-
-[![Email](https://shields.io)](mailto:lpynow@gmail.com)
+If you have any questions, please feel free to contact me: [📧](lpynow@gmail.com)](lpynow@gmail.com)
 
 
 ## 📢 News
