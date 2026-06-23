@@ -31,6 +31,11 @@
 
 ---
 
+If you have any questions, please feel free to contact me:
+
+[![Email](https://shields.io)](mailto:lpynow@gmail.com)
+
+
 ## 📢 News
 
 - **🆕2026.06.23**: Release of the Lab Interview Videos subset of the MMA-82-Rec dataset
